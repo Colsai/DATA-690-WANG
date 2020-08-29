@@ -13,7 +13,7 @@
 - Begin Assignment 1
 
 ### Homework
-Assignment 1
+- Assignment 1
 
 ## Class 2 (9/3)
 
