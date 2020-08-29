@@ -3,9 +3,10 @@
 
 ## Class 1 (8/27)
 - Half of the class introduced themselves, and we had an interesting discussion based on different focus and experience areas, etc.
-- We created Notebooks on [notebook](http://www.notebooks.ai)
-- We played with the terminal and creating and testing Python files
-- We discussed the uses of Notebooks for class
+- We created Notebooks on [notebook.ai](http://www.notebooks.ai).
+- We created and looked through basic Github functionality.
+- We played with the terminal and creating and testing Python files.
+- We discussed the uses of Notebooks for class.
 - We concluded the session.
 
 ### Action Items
