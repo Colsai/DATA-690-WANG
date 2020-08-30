@@ -1,4 +1,5 @@
 # DATA-690-WANG
-Data690 Assignments:
-
 All assignments will be .ipynb here.
+
+## Data690 Assignments:
+[Assignment 1]()
