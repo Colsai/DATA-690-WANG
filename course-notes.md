@@ -13,12 +13,12 @@ Homepage:
 > 9:20 PM to 9:40 PM - Q & A  
 
 ## Class 1 (First Class: Thursday, August 27, 2020 from 7:10 PM to 9:40 PM)
-## Starting Out
+### Starting Out
 - Started the first class via [Webx](https://umbc.webex.com/meet/jaywang)
 - *As an aside, this is the link for each week.*
 - Our Course Materials on GitHub:  https://github.com/wcj365/python-stats-dataviz
 
-## Agenda
+### Agenda
 - Half of the class introduced themselves, and we had an interesting discussion based on different focus and experience areas, etc.
 - Many students had experience or in-field knowledge in data science, maths, programming, medical fields, etc.
 - Break (10m)
@@ -38,12 +38,21 @@ Homepage:
 ### Homework
 - Assignment 1
 
-## Class 2 (Second Class: Thursday, Sept 3, 2020 from 7:10 PM to 9:40 PM)
-
+# Class 2 (Second Class: Thursday, Sept 3, 2020 from 7:10 PM to 9:40 PM)
+### Starting Out
+### Agenda
+### Action Items
 ### Homework
 Assignment 2
 
-## Class 3 (9/10)
+# Class 3 ()
+# Class 4 ()
+# Class 5 ()
+# Class 6 ()
+# Class 7 ()
+# Class 8 ()
+# Class 9 ()
+# Class 10 ()
+# Class 11 ()
+# Class 12 ()
 
-### Homework
-Assignment 3
