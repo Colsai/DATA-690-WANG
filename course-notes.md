@@ -6,13 +6,13 @@ Textbook Link:
 Homepage:
 [UMBC Homepage for DATA690)](https://blackboard.umbc.edu/ultra/courses/_58304_1/cl/outline).
 
-## Class 1 (First Class: Thursday, August 27, 2020 from 7:10 PM to 9:40 PM)
-** Class Timetable: **
-7:10 PM to 8:10 PM - Lecture and Practice
-8:10 PM to 8:20 PM - 10-Minute Break
-8:20 PM to 9:20 PM - Lecture and Practice
-9:20 PM to 9:40 PM - Q & A
+> Class Timetable:
+> 7:10 PM to 8:10 PM - Lecture and Practice
+> 8:10 PM to 8:20 PM - 10-Minute Break
+> 8:20 PM to 9:20 PM - Lecture and Practice
+> 9:20 PM to 9:40 PM - Q & A
 
+## Class 1 (First Class: Thursday, August 27, 2020 from 7:10 PM to 9:40 PM)
 ## Starting Out
 - Started the first class via [Webx](https://umbc.webex.com/meet/jaywang)
 - *As an aside, this is the link for each week.*
