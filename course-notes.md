@@ -4,7 +4,7 @@ Textbook Link:
 [Python For Data Analysis (2ED)](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf).
 
 Homepage:
-[UMBC Homepage for DATA690)](https://blackboard.umbc.edu/ultra/courses/_58304_1/cl/outline).
+[UMBC Homepage for DATA690](https://blackboard.umbc.edu/ultra/courses/_58304_1/cl/outline)
 
 > Class Timetable:
 > 7:10 PM to 8:10 PM - Lecture and Practice  
