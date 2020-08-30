@@ -1,5 +1,10 @@
 # Data 690 Course Notes (PROF.WANG)
+
+Textbook Link:
 [Python For Data Analysis (2ED)](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf).
+
+Homepage:
+[UMBC Homepage for DATA690)](https://blackboard.umbc.edu/ultra/courses/_58304_1/cl/outline).
 
 ## Class 1 (First Class: Thursday, August 27, 2020 from 7:10 PM to 9:40 PM)
 ** Class Timetable: **
