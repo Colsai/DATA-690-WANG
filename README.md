@@ -3,7 +3,7 @@ All assignments will be .ipynb here.
 This page will include links to class notes and assignments. 
 
 ## Data690 Class Notes:
-[Class Notes]()
+[Class Notes](https://github.com/Colsai/DATA-690-WANG/blob/master/course-notes.md)
 
 
 ## Data690 Assignments:
