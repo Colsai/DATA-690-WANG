@@ -7,5 +7,5 @@ This page will include links to class notes and assignments.
 
 
 ## Data690 Assignments:
-[Assignment 1](https://github.com/Colsai/DATA-690-WANG/blob/master/Practice-01.ipynb)
+[Assignment 1](https://github.com/Colsai/DATA-690-WANG/blob/master/Practice-01.ipynb)  
 [Assignment 2](https://github.com/Colsai/DATA-690-WANG/blob/master/Practice-01.ipynb)
