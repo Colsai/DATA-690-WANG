@@ -12,8 +12,8 @@ Homepage:
 > 8:20 PM to 9:20 PM - Lecture and Practice  
 > 9:20 PM to 9:40 PM - Q & A  
 
-[Class 1](#class-1) [Class 2](#class-1) [Class 3](#class-1) [Class 4](#class-1)
-[Class 5](#class-1) [Class 6](#class-1) [Class 7](#class-1) [Class 8](#class-1)
+[Class 1](#class-1) [Class 2](#class-2) [Class 3](#class-3) [Class 4](#class-4)
+[Class 5](#class-5) [Class 6](#class-6) [Class 7](#class-7) [Class 8](#class-8)
 
 <a name="class-1"></a>
 ## Class 1 (First Class: Thursday, August 27, 2020 from 7:10 PM to 9:40 PM)
@@ -42,6 +42,7 @@ Homepage:
 ### Homework
 - Assignment 1
 
+<a name="class-2"></a>
 # Class 2 (Second Class: Thursday, Sept 3, 2020 from 7:10 PM to 9:40 PM)
 ### Starting Out
 - Second half of the class introduced themselves. 
