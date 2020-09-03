@@ -40,6 +40,11 @@ Homepage:
 
 # Class 2 (Second Class: Thursday, Sept 3, 2020 from 7:10 PM to 9:40 PM)
 ### Starting Out
+- Second half of the class introduced themselves. 
+- Note: We are using the SECOND edition of the textbook (not the first)
+- Remember to use indentation of 4 spaces (as industry standard)
+- Check each statement: Did I miss a colon?
+
 ### Agenda
 ### Action Items
 ### Homework
