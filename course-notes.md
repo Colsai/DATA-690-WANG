@@ -51,11 +51,34 @@ Homepage:
 - Check each statement: Did I miss a colon?
 
 ### Agenda
+Introduced each other.  
+Worked on some basic problems with Python.  
+Thought through some of the assignments.  
+
 ### Action Items
+Finish HW2
+
 ### Homework
 Assignment 2
+Special Session
 
-# Class 3 ()
+# Class 3 (Third Class: Thursday, Sept 10, 2020 from 7:10 PM to 9:40 PM)
+### Starting Out
+- Discussed issues with keeping up with work, study habits, etc.
+- Talked about upcoming week and work
+- Reviewed Assignment 2
+
+### Agenda
+- Do a short loop project and submit link to teacher.
+- Used .split command in two loops. 
+- Discussed other problems and larger data sets to apply this thinking to. 
+
+### Action Items
+- Finish Deliverable 3
+
+### Homework
+Deliverable 3
+
 # Class 4 ()
 # Class 5 ()
 # Class 6 ()
