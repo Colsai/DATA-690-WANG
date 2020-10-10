@@ -22,7 +22,7 @@ In 2019, on the PISA tests, we ranked a tepid 36 out of 79 (1)
 In this project, I will look at student achievement and potential issues. 
 
 **2. Why is this issue important to you and/or to others?**  
-What is compelling about the obvious question of the educational lag in performance is that the United States spends a great deal on education. From the NCES report in 2016, "The United States spent $13,600 per FTE student at the elementary/secondary level, which was 39 percent higher than the average of OECD countries3 reporting data ($9,800)" [2](https://nces.ed.gov/programs/coe/indicator_cmd.asp). 
+What is compelling about the obvious question of the educational lag in performance is that the United States spends a great deal on education. From the NCES report in 2016, "The United States spent $13,600 per FTE student at the elementary/secondary level, which was 39 percent higher than the average of OECD countries3 reporting data ($9,800)" (2)
 
 **3. What questions do you have in mind and would like to answer?**  
 - Which areas of the country are performing best in education?
