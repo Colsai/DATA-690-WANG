@@ -14,15 +14,16 @@
 Write and submit a research proposal in the **Markdown** format that answers the following questions:
 
 ### 1. What is your issue of interest (provide sufficient background information)?
-As I work in education, I have been interested in educational progress for students in the United States. 
-Despite the obvious wealth of the US, as a country, there is much evidence suggesting that our educational attainment lacks in comparison to other countries.
-In 2019, on the PISA tests, the US ranked a disappointing 36 out of 79 (1).
+As I work in education, I have been interested in educational progress for students in the United States. Despite the obvious wealth of the US, as a country, there is much evidence suggesting that our educational attainment lacks in comparison to other countries. In 2019, on the PISA tests, the US ranked a disappointing 36 out of 79 (1).  
+
 Especially with the growing budgetary difficulties incurred by the 2019-2020 Coronavirus pandemic, where states are projecting significant declines in state revenues, it is
-important to think about to what effect this might have on schools. 
+important to think about to what effect this might have on schools.   
+
 Maryland alone, for example, is projecting an 11-14% budgetary decline in FY 2021 (3) , and with the increased difficulties of maintaining fair and equitable education through a
-virtual model, it is especially important to think about the potential negatives that students may face in terms of performance based on revenue.  
+virtual model, it is especially important to think about the potential negatives that students may face in terms of performance based on revenue.    
+
 In this project, I will look at student achievement and potential issues within states, looking to identify high and low-performing states, and issues/successes over time in
-regards to performance data, funding data, enrollment data, and see what different changes might correlate to higher math/reading scores. 
+regards to performance data, funding data, enrollment data, and see what different changes might correlate to higher math/reading scores.   
 
 ### 2. Why is this issue important to you and/or to others?  
 What is compelling about the obvious question of the educational lag in performance is that the United States spends a great deal on education. From the NCES report in 2016, "The United States spent $13,600 per FTE student at the elementary/secondary level, which was 39 percent higher than the average of OECD countries3 reporting data ($9,800)" (2)
