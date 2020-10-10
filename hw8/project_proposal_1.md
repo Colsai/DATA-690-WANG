@@ -2,9 +2,9 @@
 ## Hirabayashi Individual Project  (Part 1)
 
 ### Instructions
-- Find an issue that you are passionate about or are interested in as the topic for this exploratory data analysis project.  
-- Make sure there are publicly available data about this issue to perform exploratory analysis.  
-- The analysis should include descriptive statistics, data visualization, and optionally statistical inference.  
+> Find an issue that you are passionate about or are interested in as the topic for this exploratory data analysis project.  
+> Make sure there are publicly available data about this issue to perform exploratory analysis.  
+> The analysis should include descriptive statistics, data visualization, and optionally statistical inference.  
 ![Picture of Pencils](pencils_small.jpg "Pencils")
 
 Dataset Intended: https://www.kaggle.com/noriuk/us-education-datasets-unification-project
