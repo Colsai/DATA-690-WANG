@@ -9,14 +9,11 @@
 ![Picture of Pencils](pencils_small.jpg "Pencils")
 <span>Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jess Bailey</a> on <a href="https://unsplash.com/s/photos/pencil?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-
 ## Deliverable #1 - Project Proposal in Markdown format
 Write and submit a research proposal in the **Markdown** format that answers the following questions:
 
 ### 1. What is your issue of interest (provide sufficient background information)?
 As I work in education, I have been interested in educational progress for students in the United States. Despite the obvious wealth of the US, as a country, there is much evidence suggesting that our educational attainment lacks in comparison to other countries. In 2019, on the PISA tests, the US ranked a disappointing 36 out of 79 (1).  
-
-
 
 ### 2. Why is this issue important to you and/or to others?  
 Especially with the growing budgetary difficulties incurred by the 2019-2020 Coronavirus pandemic, where states are projecting significant declines in state revenues, it is
@@ -25,7 +22,8 @@ important to think about to what effect this might have on schools.
 Maryland alone, for example, is projecting an 11-14% budgetary decline in FY 2021 (2) , and with the increased difficulties of maintaining fair and equitable education through a
 virtual model, it is especially important to think about the potential negatives that students may face in terms of performance based on revenue.    
 
-What is compelling about the obvious question of the educational lag in performance is that the United States spends a great deal on education. From the NCES report in 2016, "The United States spent $13,600 per FTE student at the elementary/secondary level, which was 39 percent higher than the average of OECD countries3 reporting data ($9,800)" (3)  
+What is compelling about the obvious question of the educational lag in performance is that the United States spends a great deal on education. From the NCES report in 2016, "The United States spent $13,600 per FTE student at the elementary/secondary level, which was 39 percent higher than the average of OECD countries3 reporting data ($9,800)" (3) 
+  
 In this project, I will look at student achievement and potential issues within states, looking to identify high and low-performing states, and issues/successes over time in
 regards to performance data, funding data, enrollment data, and see what different changes might correlate to higher math/reading scores.   
 
@@ -35,10 +33,11 @@ regards to performance data, funding data, enrollment data, and see what differe
 - What are some larger trends from 1993-2018 in terms of student performance?
 - What are some larger trends in terms of funding?
 - What are some larger trends in terms of student enrollment?
+- Are there correlations between these different variables? (ex. has higher funding per student meant (funding/student total) greater achievement per year?
 
 ### 4. Where do you get the data to help answer your questions?**  
-(US Education Datasets)[https://www.kaggle.com/noriuk/us-education-datasets-unification-project]
-(NCES)[https://nces.ed.gov/datalab/TablesLibrary]
+[US Education Datasets](https://www.kaggle.com/noriuk/us-education-datasets-unification-project)
+[NCES](https://nces.ed.gov/datalab/TablesLibrary)
 
 ### 5. What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units do you expect to analyze? 
 - Direct focus on the US, with possible specific focus on areas within DC/Maryland/Virginia area. 
