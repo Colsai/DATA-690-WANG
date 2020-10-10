@@ -6,7 +6,7 @@
 - Make sure there are publicly available data about this issue to perform exploratory analysis.  
 - The analysis should include descriptive statistics, data visualization, and optionally statistical inference.  
 
-![alt](pencils.jpg "Title")
+![alt](pencils_small.jpg "Pencils")
 Dataset Intended: https://www.kaggle.com/noriuk/us-education-datasets-unification-project
 
 
