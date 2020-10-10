@@ -4,8 +4,7 @@ Find an issue that you are passionate about or are interested in as the topic fo
 Make sure there are publicly available data about this issue to perform exploratory analysis.  
 The analysis should include descriptive statistics, data visualization, and optionally statistical inference.  
 
-
-![](pencils.jpg)
+![alt](/wp.png "Title")
 Dataset Intended: https://www.kaggle.com/noriuk/us-education-datasets-unification-project
 
 
