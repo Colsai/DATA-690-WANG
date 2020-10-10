@@ -18,7 +18,7 @@ Write and submit a research proposal in the **Markdown** format that answers the
 **1. What is your issue of interest (provide sufficient background information)?**  
 As I work in education, I have been interested in educational progress for students in the United States. 
 Despite the obvious wealth of the US, as a country, there is much evidence suggesting that our educational attainment lacks in comparison to other countries.
-In 2019, on the PISA tests, we ranked a tepid 36 out of 79 [Source](https://hechingerreport.org/what-2018-pisa-international-rankings-tell-us-about-u-s-schools/).
+In 2019, on the PISA tests, we ranked a tepid 36 out of 79 ([Source])(https://hechingerreport.org/what-2018-pisa-international-rankings-tell-us-about-u-s-schools/).
 In this project, I will look at student achievement and potential issues. 
 
 **2. Why is this issue important to you and/or to others?**  
