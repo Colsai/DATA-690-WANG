@@ -7,7 +7,7 @@
 > The analysis should include descriptive statistics, data visualization, and optionally statistical inference.  
 
 ![Picture of Pencils](pencils_small.jpg "Pencils")
-
+<span>Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jess Bailey</a> on <a href="https://unsplash.com/s/photos/pencil?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 
 ## Deliverable #1 - Project Proposal in Markdown format
