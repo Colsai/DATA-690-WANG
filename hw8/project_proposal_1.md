@@ -1,16 +1,22 @@
 # UMBC DATA690: STATS AND VISUALIZATION (WANG)
 ## Hirabayashi Individual Project  (Part 1)
 
-### Instructions
+
+## Instructions
 > Find an issue that you are passionate about or are interested in as the topic for this exploratory data analysis project.  
 > Make sure there are publicly available data about this issue to perform exploratory analysis.  
 > The analysis should include descriptive statistics, data visualization, and optionally statistical inference.  
 
+### Deliverable #1 - Project Proposal in Markdown format
+Write and submit a research proposal in the **Markdown** format that answers the following questions:
+
 ![Picture of Pencils](pencils_small.jpg "Pencils")
 <span>Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jess Bailey</a> on <a href="https://unsplash.com/s/photos/pencil?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-## Deliverable #1 - Project Proposal in Markdown format
-Write and submit a research proposal in the **Markdown** format that answers the following questions:
+### Instructions
+> Find an issue that you are passionate about or are interested in as the topic for this exploratory data analysis project.  
+> Make sure there are publicly available data about this issue to perform exploratory analysis.  
+> The analysis should include descriptive statistics, data visualization, and optionally statistical inference.  
 
 ### 1. What is your issue of interest (provide sufficient background information)?
 I have a wide-range of topics I am interested in, but as I work in education, I would like to focus on current educational progress for K-12 students. Despite the obvious wealth of the US, as a country, there is much evidence suggesting that our educational attainment lacks in comparison to other countries. 
