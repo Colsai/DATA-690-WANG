@@ -1,14 +1,12 @@
 # UMBC DATA690: STATS AND VISUALIZATION (WANG)
 ## Hirabayashi Individual Project  (Part 1)
+## Deliverable #1 - Project Proposal in Markdown format
+Write and submit a research proposal in the **Markdown** format that answers the following questions.
 
-
-## Instructions
+### Instructions
 > Find an issue that you are passionate about or are interested in as the topic for this exploratory data analysis project.  
 > Make sure there are publicly available data about this issue to perform exploratory analysis.  
 > The analysis should include descriptive statistics, data visualization, and optionally statistical inference.  
-
-### Deliverable #1 - Project Proposal in Markdown format
-Write and submit a research proposal in the **Markdown** format that answers the following questions:
 
 ![Picture of Pencils](pencils_small.jpg "Pencils")
 *<span>Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jess Bailey</a> on <a href="https://unsplash.com/s/photos/pencil?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*
