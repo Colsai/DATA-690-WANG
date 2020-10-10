@@ -19,14 +19,14 @@ As I work in education, I have been interested in educational progress for stude
 Especially with the growing budgetary difficulties incurred by the 2019-2020 Coronavirus pandemic, where states are projecting significant declines in state revenues, it is
 important to think about to what effect this might have on schools.   
 
-Maryland alone, for example, is projecting an 11-14% budgetary decline in FY 2021 (3) , and with the increased difficulties of maintaining fair and equitable education through a
+Maryland alone, for example, is projecting an 11-14% budgetary decline in FY 2021 (2) , and with the increased difficulties of maintaining fair and equitable education through a
 virtual model, it is especially important to think about the potential negatives that students may face in terms of performance based on revenue.    
 
 In this project, I will look at student achievement and potential issues within states, looking to identify high and low-performing states, and issues/successes over time in
 regards to performance data, funding data, enrollment data, and see what different changes might correlate to higher math/reading scores.   
 
 ### 2. Why is this issue important to you and/or to others?  
-What is compelling about the obvious question of the educational lag in performance is that the United States spends a great deal on education. From the NCES report in 2016, "The United States spent $13,600 per FTE student at the elementary/secondary level, which was 39 percent higher than the average of OECD countries3 reporting data ($9,800)" (2)
+What is compelling about the obvious question of the educational lag in performance is that the United States spends a great deal on education. From the NCES report in 2016, "The United States spent $13,600 per FTE student at the elementary/secondary level, which was 39 percent higher than the average of OECD countries3 reporting data ($9,800)" (3)
 
 ### 3. What questions do you have in mind and would like to answer? 
 - Which areas of the country are performing best in education?
@@ -54,8 +54,8 @@ What is compelling about the obvious question of the educational lag in performa
 
 ## References:
 1. https://hechingerreport.org/what-2018-pisa-international-rankings-tell-us-about-u-s-schools/  
-2. https://nces.ed.gov/programs/coe/indicator_cmd.asp
-3. https://www.ncsl.org/research/fiscal-policy/coronavirus-covid-19-state-budget-updates-and-revenue-projections637208306.aspx
+2. https://www.ncsl.org/research/fiscal-policy/coronavirus-covid-19-state-budget-updates-and-revenue-projections637208306.aspx
+3. https://nces.ed.gov/programs/coe/indicator_cmd.asp
 
 ## Dataset:
 https://www.kaggle.com/noriuk/us-education-datasets-unification-project
