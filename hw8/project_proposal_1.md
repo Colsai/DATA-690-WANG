@@ -1,21 +1,16 @@
 # UMBC DATA690: STATS AND VISUALIZATION (WANG)
 ## Hirabayashi Individual Project  (Part 1)
-![Picture of Pencils](pencils_small.jpg "Pencils")
+
 ### Instructions
 - Find an issue that you are passionate about or are interested in as the topic for this exploratory data analysis project.  
 - Make sure there are publicly available data about this issue to perform exploratory analysis.  
 - The analysis should include descriptive statistics, data visualization, and optionally statistical inference.  
-
+![Picture of Pencils](pencils_small.jpg "Pencils")
 
 Dataset Intended: https://www.kaggle.com/noriuk/us-education-datasets-unification-project
 
-
-
 ## Deliverable #1 - Project Proposal in Markdown format
-
 Write and submit a research proposal in the **Markdown** format that answers the following questions:
-
-
 
 ### 1. What is your issue of interest (provide sufficient background information)?
 As I work in education, I have been interested in educational progress for students in the United States. 
