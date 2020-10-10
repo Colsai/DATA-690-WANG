@@ -36,8 +36,8 @@ regards to performance data, funding data, enrollment data, and see what differe
 - Are there correlations between these different variables? (ex. has higher funding per student meant (funding/student total) greater achievement per year?
 
 ### 4. Where do you get the data to help answer your questions?**  
-[US Education Datasets](https://www.kaggle.com/noriuk/us-education-datasets-unification-project)
-[NCES](https://nces.ed.gov/datalab/TablesLibrary)
+- [US Education Datasets](https://www.kaggle.com/noriuk/us-education-datasets-unification-project)
+- [NCES](https://nces.ed.gov/datalab/TablesLibrary)
 
 ### 5. What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units do you expect to analyze? 
 - Direct focus on the US, with possible specific focus on areas within DC/Maryland/Virginia area. 
@@ -48,6 +48,7 @@ regards to performance data, funding data, enrollment data, and see what differe
 - Funding Data (National/State/Local)
 - Achievement Data/Performance Data
 - Test scores by year of math and reading/by grade
+- Secondary statistics, like funding per student
 
 ### 7. What kinds of techniques do you you plan to use (for example, summary statistics, scatter plot, bar chart, chi-squared test)?  
 - Summary Statistics, to take a brief look at the data.
