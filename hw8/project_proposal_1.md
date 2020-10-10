@@ -24,11 +24,11 @@ Have students as a whole improved? Have we experienced significant challenges be
 Especially with the growing budgetary difficulties incurred by the 2019-2020 Coronavirus pandemic, where states are projecting significant declines in state revenues, it is
 important to think about to what effect this might have on schools.   
 
-Maryland alone, for example, is projecting an 11-14% budgetary decline in FY 2021 (2) , and with the increased difficulties of maintaining fair and equitable education through a
-virtual model, it is especially important to think about the potential negatives that students may face in terms of performance based on revenue.    
+Maryland alone, for example, is projecting an 11-14% budgetary decline in FY 2021 (2), and with the increased difficulties of maintaining fair and equitable education through a
+virtual model, it is especially important to think about the potential negatives that students may face in terms of performance based on n/s/l revenue and budgetary shortfalls. 
 
-What is compelling about the obvious question of the educational lag in performance is that the United States spends a great deal on education. From the NCES report in 2016, "The United States spent $13,600 per FTE student at the elementary/secondary level, which was 39 percent higher than the average of OECD countries3 reporting data ($9,800)" (3) 
-  
+If there is ever a time to think about "Does more money mean better education?" it is now. What is compelling about the obvious question of the educational lag in performance is that the United States already spends a great deal on education. From the NCES report in 2016, "The United States spent $13,600 per FTE student at the elementary/secondary level, which was 39 percent higher than the average of OECD countries3 reporting data ($9,800)" (3) At the same time, there is a major contrast in the success of students, as outlined by math PISA scores outlined earlier.   
+
 In this project, I will look at student achievement and potential issues within states, looking to identify high and low-performing states, and issues/successes over time in
 regards to performance data, funding data, enrollment data, and see what different changes might correlate to higher math/reading scores.   
 
