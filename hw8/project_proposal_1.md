@@ -8,7 +8,7 @@
 
 ![Picture of Pencils](pencils_small.jpg "Pencils")
 
-Dataset Intended: https://www.kaggle.com/noriuk/us-education-datasets-unification-project
+
 
 ## Deliverable #1 - Project Proposal in Markdown format
 Write and submit a research proposal in the **Markdown** format that answers the following questions:
@@ -48,3 +48,6 @@ What is compelling about the obvious question of the educational lag in performa
 ## References:
 1. https://hechingerreport.org/what-2018-pisa-international-rankings-tell-us-about-u-s-schools/  
 2. https://nces.ed.gov/programs/coe/indicator_cmd.asp
+
+## Dataset:
+https://www.kaggle.com/noriuk/us-education-datasets-unification-project
