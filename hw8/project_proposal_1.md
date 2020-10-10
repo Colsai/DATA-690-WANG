@@ -5,7 +5,7 @@ The analysis should include descriptive statistics, data visualization, and opti
 
 
 ![](pencils.jpg)
-Dataset Intended: (US Education Datasets Unification Project)[https://www.kaggle.com/noriuk/us-education-datasets-unification-project].
+Dataset Intended: https://www.kaggle.com/noriuk/us-education-datasets-unification-project
 
 
 
