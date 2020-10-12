@@ -13,9 +13,9 @@ Write and submit a research proposal in the **Markdown** format that answers the
 ### 1. What is your issue of interest (provide sufficient background information)?
 I have a wide-range of topics I am interested in, but as I work in education, I would like to focus on current educational progress for K-12 students. Despite the obvious wealth of the US, as a country, there is much evidence suggesting that our educational attainment lacks in comparison to other countries.  
 
-What fascinates me about the US educational system is its performance.In 2019, on the PISA tests, the US ranked a disappointing 36 out of 79 (1). However, when PISA ran its first iteration, the US was 11th out of 12 nations.  
+What fascinates me about the US educational system is its performance. In 2019, on the international Programme for International Student Assessment (PISA) tests, the US ranked a disappointing 36 out of 79 (1). However, when PISA ran its first iteration, the US was 11th out of 12 nations. 
 
-Have students as a whole improved? Have we experienced significant challenges because of higher enrollments? Is a change in funding positively affecting student performance? I hope to reflect on these basic questions in this project. 
+Have students as a whole improved in the US, in comparison to other countries? Have we experienced significant challenges because of higher enrollments? Is a change in funding positively affecting student performance? I hope to reflect on these exploratory questions in this project. 
 
 ### 2. Why is this issue important to you and/or to others?  
 Especially with the growing budgetary difficulties incurred by the 2019-2020 Coronavirus pandemic, where states are projecting significant declines in state revenues, it is
