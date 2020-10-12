@@ -66,3 +66,6 @@ regards to performance data, funding data, enrollment data, and see what differe
 
 ## Dataset:
 https://www.kaggle.com/noriuk/us-education-datasets-unification-project
+
+## Contact:
+colsai@protonmail.com for any questions about the project.
